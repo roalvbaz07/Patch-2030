@@ -40,16 +40,7 @@ Proiektu hau garatzeko honako tresna eta lengoaiak erabili ditugu:
 
 ## Instalazioa eta Exekuzioa
 
-Jokoa probatzeko bi aukera dituzu:
-
-### 1. Aukera: Exekutagarria deskargatu (Jokalarientzat)
 1.  Zoaz orrialde honetako [Releases](../../releases) atalera.
 2.  Deskargatu azken bertsioaren `.zip` fitxategia.
 3.  Deskonprimitu fitxategia.
 4.  Exekutatu `Patch2030.exe` fitxategia.
-
-### 2. Aukera: Biltegia klonatu (Garatzaileentzat)
-Kodea ikusi edo editatu nahi baduzu:
-
-```bash
-git clone [https://github.com/erabiltzailea/biltegiaren-izena.git](https://github.com/erabiltzailea/biltegiaren-izena.git)
