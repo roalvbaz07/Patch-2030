@@ -28,20 +28,6 @@ Proiektu hau Mondragon Unibertsitateko PBLaren barruan garatu da. Gure helburu n
 * **Mailak:** Gemini AI-ak diseinatutako pertsonaiak eta fondoak.
 * **Audioa:** Ez du.
 
----
-
-## Pantaila-argazkiak
-
-| Gameplay 1 | Gameplay 2 |
-| :---: | :---: |
-| <img src="ibilbidea/irudia1.png" width="400"> | <img src="ibilbidea/irudia2.png" width="400"> |
-
-| Menua | Interfazea |
-| :---: | :---: |
-| <img src="ibilbidea/irudia3.png" width="400"> | <img src="ibilbidea/irudia4.png" width="400"> |
-
----
-
 ## Erabilitako teknologiak
 
 Proiektu hau garatzeko honako tresna eta lengoaiak erabili ditugu:
