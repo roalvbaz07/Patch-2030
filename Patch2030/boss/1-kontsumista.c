@@ -20,7 +20,7 @@ void kontsumistaUpdate()
     case KORRIKA_EZKERRA:
 
         // Animazioa: 20 frametik behin irudia aldatu
-        if (kontsumista.internalTimer % 20 == 0)
+        if (kontsumista.internalTimer % 10 == 0)
         {
             kontsumista.frame = (kontsumista.frame + 1) % 3; // 0, 1, 2, 3 bueltaka
         }
