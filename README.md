@@ -27,7 +27,7 @@ Proiektu hau Mondragon Unibertsitateko PBLaren barruan garatu da. Gure helburu n
 * **Estilo bisuala:** Pixel Art.
 * **Mailak:** Gemini AI-ak diseinatutako pertsonaiak eta fondoak.
 * **Audioa:** Ez du.
-
+---
 ## Erabilitako teknologiak
 
 Proiektu hau garatzeko honako tresna eta lengoaiak erabili ditugu:
