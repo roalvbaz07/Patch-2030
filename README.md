@@ -1,4 +1,4 @@
-# [Jokoaren Izena]
+# Patch 2030
 
 **Mondragon Unibertsitateko Informatikako graduko ikasleek garatutako bideojokoa.**
 
